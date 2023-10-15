@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @artfull-boy
-- 👀 I’m interested in learning Front end developement
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-FB : Ilias Rais
-Instagram : ilias.rais.ir
+- 👀 I’m interested in UX/UI Desgin and full-stack developement
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on Full-Stack projects
+
 
 <!---
 artfull-boy/artfull-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
