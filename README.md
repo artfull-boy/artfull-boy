@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Spring**
 
-- 👨‍💻 All of my projects are available at [https://artfull-boy.github.io/Portfolio/](https://artfull-boy.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://artfull-boy.github.io/Portfolio_Website/)
 
 - 📫 How to reach me **ivarrais2001@gmail.com**
 
