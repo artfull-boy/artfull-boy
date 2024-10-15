@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rais Ilias</h1>
-<h3 align="center">Dedicated UX/UI designer and Frontend Developer hailing from the vibrant landscapes of Morocco</h3>
+<h3 align="center">Dedicated UX/UI designer and Full-stack Developer hailing from the vibrant landscapes of Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artfull-boy&label=Profile%20views&color=0e75b6&style=flat" alt="artfull-boy" /> </p>
 
-- 🔭 I’m currently working on **UX/UI and Frontend Projects**
+- 🔭 I’m currently working on **UX/UI and Full-stack Projects**
 
-- 🌱 I’m currently learning **Next.js, Spring**
+- 🌱 I’m currently learning **Next.js, Laravel**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://iliasrais.vercel.app)
 
