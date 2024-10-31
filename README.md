@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artfull-boy&label=Profile%20views&color=0e75b6&style=flat" alt="artfull-boy" /> </p>
 
-- 🔭 I’m currently working on **UX/UI and Full-stack Projects**
+🚀 **Focused on UX/UI and Full-Stack Projects** – Crafting seamless, intuitive interfaces that align with robust, scalable backend architecture.
 
-- 🌱 I’m currently learning **Next.js, Laravel**
+🔧 **Tech Stack:** Currently building with Next.js and Laravel to create responsive, high-performance web applications.
 
-- 👨‍💻 All of my projects are available at [My Personal Website](https://iliasrais.vercel.app)
+🌐 **Portfolio:** Explore my projects and ongoing work on [My Personal Website](iliasrais.vercel.app), showcasing my journey in web development.
 
-- 📫 How to reach me **ivarrais2001@gmail.com**
+📬 **Contact:** Reach out to me at [My Personal Email](mailto:ivarrais2001@gmail.com) for collaborations, inquiries, or just to connect!
 
-- 📄 Know about my experiences [My Personal Website](https://iliasrais.vercel.app)
+🤝 **Connect with Me:** Let's stay in touch! Reach out on [LinkedIn](https://www.linkedin.com/in/ilias-rais/) or follow my GitHub for more updates. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
