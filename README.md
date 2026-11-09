@@ -6,22 +6,23 @@
 
 # Hi there, I'm Ilias Rais 👾
 
-**Software Engineer | Erasmus Mundus CYBERUS Student**[cite: 1]
+**Software Engineer | Erasmus Mundus CYBERUS Student**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222F3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilias-rais)[cite: 1]
-[![Portfolio](https://img.shields.io/badge/GitHub-0C0D0F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artfull-boy)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222F3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilias-rais)
+[![Portfolio](https://img.shields.io/badge/GitHub-0C0D0F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artfull-boy)
+[![CV/Resume](https://drive.google.com/file/d/1F5r4cVuccQtrM84KtIalycnkFljDFOyK/view?usp=sharing)
 
-*I moved into cybersecurity from years of designing and building production web applications, and that builder's perspective is my edge: I find and fix vulnerabilities with a first-hand understanding of how real systems are actually made and where they break.*[cite: 1]
+*I moved into cybersecurity from years of designing and building production web applications, and that builder's perspective is my edge: I find and fix vulnerabilities with a first-hand understanding of how real systems are actually made and where they break.*
 
 </div>
 
 ---
 
 ### 🔭 Current Focus
-- 🎓 **Studying:** Erasmus Mundus Master's in Cybersecurity (Software Security Track) at UBS & UL[cite: 1].
-- 🛡️ **Specializing in:** ICS/OT Security, Offensive Security, and DevSecOps[cite: 2].
-- 🚩 **Competing:** Active CTF Player (recently solved the Vardanne Command JWT exploit at CSCTF 2026)[cite: 2].
-- 💼 **Status:** Available for a 6-month internship starting February 2027[cite: 1]. Every company I've interned with has offered me a full-time position[cite: 1].
+- 🎓 **Studying:** Erasmus Mundus Master's in Cybersecurity (Software Security Track) at UBS & UL.
+- 🛡️ **Specializing in:** ICS/OT Security, Offensive Security, and DevSecOps.
+- 🚩 **Competing:** Active CTF Player (recently solved the Vardanne Command JWT exploit at CSCTF 2026).
+- 💼 **Status:** Available for a 6-month internship starting February 2027. Every company I've interned with has offered me a full-time position.
 
 ### 🛠️ Technical Arsenal
 
