@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222F3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilias-rais)
 [![Portfolio](https://img.shields.io/badge/GitHub-0C0D0F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artfull-boy)
-[![CV/Resume](https://drive.google.com/file/d/1F5r4cVuccQtrM84KtIalycnkFljDFOyK/view?usp=sharing)
+[![CV/Resume]](https://drive.google.com/file/d/1F5r4cVuccQtrM84KtIalycnkFljDFOyK/view?usp=sharing)
 
 *I moved into cybersecurity from years of designing and building production web applications, and that builder's perspective is my edge: I find and fix vulnerabilities with a first-hand understanding of how real systems are actually made and where they break.*
 
