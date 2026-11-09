@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/0yKyRjJ7/linkedin_cover.png" alt="Ilias Rais Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFAHOQ8a6_ZgQ/profile-displaybackgroundimage-shrink_350_1400/B4EZmbrl3dIkAY-/0/1759253521053?e=1795651200&v=beta&t=zf33ANWNZgBiGCFhn6qyGtK4XTJ2p3WfQK7G0R4hBFk" alt="Ilias Rais Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
