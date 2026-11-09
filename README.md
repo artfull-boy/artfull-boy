@@ -1,28 +1,100 @@
-<h1 align="center">Hi 👋, I'm Rais Ilias</h1>
-<h3 align="center">Dedicated UX/UI designer and Full-stack Developer hailing from the vibrant landscapes of Morocco</h3>
+<div align="center">
+  <img src="https://i.postimg.cc/0yKyRjJ7/linkedin_cover.png" alt="Ilias Rais Banner" width="100%" style="border-radius: 10px;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artfull-boy&label=Profile%20views&color=0e75b6&style=flat" alt="artfull-boy" /> </p>
+<div align="center">
 
-🚀 **Focused on UX/UI and Full-Stack Projects** – Crafting seamless, intuitive interfaces that align with robust, scalable backend architecture.
+# Hi there, I'm Ilias Rais 👾
 
-🔧 **Tech Stack:** Currently building with Next.js and Laravel to create responsive, high-performance web applications.
+**Software Engineer | Erasmus Mundus CYBERUS Student**[cite: 1]
 
-🌐 **Portfolio:** Explore my projects and ongoing work on [My Personal Website](https://iliasrais.vercel.app), showcasing my journey in web development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222F3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilias-rais)[cite: 1]
+[![Portfolio](https://img.shields.io/badge/GitHub-0C0D0F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artfull-boy)[cite: 1]
 
-📬 **Contact:** Reach out to me at [My Personal Email](mailto:ivarrais2001@gmail.com) for collaborations, inquiries, or just to connect!
+*I moved into cybersecurity from years of designing and building production web applications, and that builder's perspective is my edge: I find and fix vulnerabilities with a first-hand understanding of how real systems are actually made and where they break.*[cite: 1]
 
-🤝 **Connect with Me:** Let's stay in touch! Reach out on [LinkedIn](https://www.linkedin.com/in/ilias-rais/) or follow my GitHub for more updates. 
+</div>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ilias-rais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilias-rais/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ilias.rais.148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ilias.rais.148" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ilias.rais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ilias.rais/" height="30" width="40" /></a>
-<a href="https://www.behance.net/iliasrais2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/iliasrais2001" height="30" width="40" /></a>
-</p>
+### 🔭 Current Focus
+- 🎓 **Studying:** Erasmus Mundus Master's in Cybersecurity (Software Security Track) at UBS & UL[cite: 1].
+- 🛡️ **Specializing in:** ICS/OT Security, Offensive Security, and DevSecOps[cite: 2].
+- 🚩 **Competing:** Active CTF Player (recently solved the Vardanne Command JWT exploit at CSCTF 2026)[cite: 2].
+- 💼 **Status:** Available for a 6-month internship starting February 2027[cite: 1]. Every company I've interned with has offered me a full-time position[cite: 1].
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Arsenal
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artfull-boy&theme=dark&hide_border=true" alt="Ilias Rais" /></p>
+<details>
+  <summary><b>☠️ Offensive Security & Vulnerability Research</b></summary>
+  <br/>
+  
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-476078?style=flat-square&logo=burpsuite&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-222F3B?style=flat-square&logo=metasploit&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-0C0D0F?style=flat-square&logo=wireshark&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-476078?style=flat-square&logo=nmap&logoColor=white)
+  ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-222F3B?style=flat-square&logo=owasp&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0C0D0F?style=flat-square&logo=kalilinux&logoColor=white)
+  
+  *Experience:* Vulnerability research, source-code review, penetration testing, and attack-chain automation using Caldera[cite: 2].
+</details>
+
+<details>
+  <summary><b>🏭 ICS/OT Security & Digital Twins</b></summary>
+  <br/>
+  
+  ![OpenPLC](https://img.shields.io/badge/OpenPLC-476078?style=flat-square&logo=siemens&logoColor=white)
+  ![Ignition SCADA](https://img.shields.io/badge/Ignition_SCADA-222F3B?style=flat-square&logo=inductiveautomation&logoColor=white)
+  ![Node-RED](https://img.shields.io/badge/Node--RED-0C0D0F?style=flat-square&logo=nodered&logoColor=white)
+  
+  *Experience:* PLC/SCADA/HMI security, industrial protocols (Modbus, OPC-UA), historian databases, and mapping end-to-end attacks to MITRE ATT&CK for ICS[cite: 2]. Designed a containerized ICS/OT security lab and a Cross-Layer Consistency Verifier[cite: 1].
+</details>
+
+<details>
+  <summary><b>♾️ DevSecOps & Architecture</b></summary>
+  <br/>
+  
+  ![Docker](https://img.shields.io/badge/Docker-476078?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-222F3B?style=flat-square&logo=kubernetes&logoColor=white)
+  ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0C0D0F?style=flat-square&logo=bitbucket&logoColor=white)
+  
+  *Experience:* Built automated CI/CD pipelines cutting deployment times to 15-minute automated releases[cite: 1]. Secure Software Defined Networking (Mininet, ONOS)[cite: 2].
+</details>
+
+<details>
+  <summary><b>💻 Software Engineering & Development</b></summary>
+  <br/>
+  
+  ![Python](https://img.shields.io/badge/Python-476078?style=flat-square&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-222F3B?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-0C0D0F?style=flat-square&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-476078?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-222F3B?style=flat-square&logo=laravel&logoColor=white)
+  ![C](https://img.shields.io/badge/C-0C0D0F?style=flat-square&logo=c&logoColor=white)
+  
+  *Experience:* Developed task management microservices, a headless intern-management platform, and integrated open-source security tools into automated pentesting platforms[cite: 1].
+</details>
+
+---
+
+### 🏆 Featured Experience & Projects
+* **ICS/OT Cybersecurity Researcher** @ Productique Québec & Université de Sherbrooke[cite: 1]
+  * Audited ICS components and confirmed 27 vulnerabilities (including original stored XSS in OpenPLC)[cite: 1].
+  * Detected 5 of 6 process-manipulation attacks in 10-20s with zero false positives using a custom Cross-Layer Consistency Verifier[cite: 1].
+* **Full Stack Engineer** @ VOID[cite: 1]
+  * Conducted security audits identifying 12+ vulnerabilities (XSS, CSRF) to strengthen OWASP compliance across production apps[cite: 1].
+* **Cybersecurity & Full-Stack Developer** @ Naoris Consulting[cite: 1]
+  * Developed an automated pentesting framework integrating LLM-driven analysis with Wapiti, Nikto, Netcat, and Tcpdump[cite: 1].
+
+### 📜 Certifications
+* **CLLMSP** (Certified LLM Security Professional)[cite: 2]
+* **Junior Penetration Tester** (TryHackMe)[cite: 2]
+* **Google Cybersecurity Professional Certificate**[cite: 2]
+* **Cisco Ethical Hacker & Linux Essentials**[cite: 2]
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=artfull-boy&show_icons=true&theme=transparent&title_color=476078&text_color=222F3B&icon_color=0C0D0F&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artfull-boy&theme=transparent&ring=476078&fire=222F3B&currStreakLabel=0C0D0F&hide_border=true" width="48%" />
+</div>
